@@ -4,7 +4,7 @@
 
 ## ⚡ About Me
 
-- 🔭 I’m currently working on **Omnifood project**
+- 🔭 I’m currently focusing on **Upgrading Skills**
 
 - 🌱 I’m currently learning **Javascript.**
 
