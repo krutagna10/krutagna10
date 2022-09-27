@@ -28,8 +28,8 @@
 
 ## 📊  My Github Stats:
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=krutagna10&theme=radical&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=krutagna10&show_icons=true&theme=radical&hide_border=true">
+<img width="45%" src="https://streak-stats.demolab.com/?user=krutagna10&theme=radical&hide_border=true">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=krutagna10&show_icons=true&theme=radical&hide_border=true">
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutagna10&theme=radical&hide_border=true">
