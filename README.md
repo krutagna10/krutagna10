@@ -27,13 +27,8 @@
 <br/>
 
 ## 📊  My Github Stats:
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=krutagna10&theme=radical&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=krutagna10&show_icons=true&theme=radical&hide_border=true">
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutagna10&theme=radical&hide_border=true">
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krutagna10&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krutagna10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **krutagna10/krutagna10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
