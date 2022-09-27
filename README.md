@@ -27,7 +27,7 @@
 <br/>
 
 ## 📊  My Github Stats:
-<div align="left">
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=krutagna10&theme=radical&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api?username=krutagna10&show_icons=true&theme=radical&hide_border=true">
 </div>
