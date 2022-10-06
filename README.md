@@ -24,8 +24,6 @@
    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </div>
 
-<br/>
-
 ## 📊  My Github Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krutagna10&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
