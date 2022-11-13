@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me: **kpatel.kp7016@gmail.com**
-
 </p>
 
 ## 🚀 Languages and Tools:
