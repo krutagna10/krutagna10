@@ -23,7 +23,6 @@
    <img src="https://img.icons8.com/color/48/python.png"/>
 </div>
    
-
 ## 📊  My Github Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krutagna10&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krutagna10&theme=radical&hide_border=true&count-private=true)
