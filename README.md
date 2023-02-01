@@ -18,9 +18,12 @@
    <img src="https://img.icons8.com/color/48/html-5.png"/>
    <img src="https://img.icons8.com/color/48/css3.png"/>
    <img src="https://img.icons8.com/color/48/javascript.png"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="48" height="48"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="48" height="48" />  
    <img src="https://img.icons8.com/color/48/sass.png">
    <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-   <img src="https://img.icons8.com/color/48/python.png"/>
+   <img src="https://img.icons8.com/color/48/python.png"/>      
+
 </div>
    
 ## 📊  My Github Stats:
