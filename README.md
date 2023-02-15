@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently focusing on **Upgrading Skills**
 
-- 🌱 I’m currently learning **Javascript.**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
