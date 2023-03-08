@@ -15,14 +15,16 @@
 
 ## 🚀 Languages and Tools:
 <div align="left"> 
-   <img src="https://img.icons8.com/color/48/html-5.png"/>
-   <img src="https://img.icons8.com/color/48/css3.png"/>
-   <img src="https://img.icons8.com/color/48/javascript.png"/>
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="48" height="48" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="48" height="48" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="48" height="48"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="48" height="48"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="48" height="48" />  
-   <img src="https://img.icons8.com/color/48/sass.png">
-   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-   <img src="https://img.icons8.com/color/48/python.png"/>      
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="48" height="48" />  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="48" height="48" />  
 
 </div>
    
